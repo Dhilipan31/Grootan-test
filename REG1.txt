@@ -1,0 +1,6 @@
+<html>
+<head><title>Register Your Account</title><head>
+<body>
+<table><tr>Register Your Details</tr>
+</body>
+</html>

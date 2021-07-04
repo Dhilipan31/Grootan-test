@@ -1,0 +1,7 @@
+{margin:0;
+padding:0;}
+body{
+background:url("img1.jpeg);
+background-size:280%;
+background-position: -400px 0px;}
+
